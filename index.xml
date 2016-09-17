@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Edwards</title>
+    <link>http://douglasedwards.uk/</link>
+    <description>Recent content on Douglas Edwards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 10:28:57 +0100</lastBuildDate>
+    <atom:link href="http://douglasedwards.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Study List:</title>
+      <link>http://douglasedwards.uk/about/</link>
+      <pubDate>Sun, 04 Sep 2016 10:28:57 +0100</pubDate>
+      
+      <guid>http://douglasedwards.uk/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Hugo Static Websites&lt;/li&gt;
+&lt;li&gt;Restful Web Services&lt;/li&gt;
+&lt;li&gt;Spring AOP (Aspect Orientated Programming)&lt;/li&gt;
+&lt;li&gt;Java SE8 Professional&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;h3&gt; Useful Sites: &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://winterbe.com/java/&#34;&gt; Java 8 Blog &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hacksplaining.com/&#34;&gt; Software Security &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
